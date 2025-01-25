@@ -1,0 +1,24 @@
+        header{
+            height: 100px;
+            background-color: #ce7676;
+            display: flex;
+            color: white;
+            align-items: center;
+        }
+
+        h3{
+            width: 100px;
+            margin: 10px;
+        }
+
+        a{
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+            margin: 20px;
+        }
+        nav{
+            height: 100%;
+            text-align: center;
+            margin-top: 40px;
+        }
